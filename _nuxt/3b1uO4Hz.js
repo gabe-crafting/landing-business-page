@@ -1,0 +1,1 @@
+import{y as r,L as l,d as c,i as p,W as u,n as i,Y as s}from"./L-midGXA.js";const m={base:""},g={__name:"ProseStrong",props:{class:{type:null,required:!1}},setup(e){const o=e,a=r(),t=l(()=>s({extend:s(m),...a.uiPro?.prose?.strong||{}}));return(n,d)=>(p(),c("strong",{class:i(t.value({class:o.class}))},[u(n.$slots,"default")],2))}};export{g as default};

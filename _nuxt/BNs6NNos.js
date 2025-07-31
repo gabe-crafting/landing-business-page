@@ -1,0 +1,1 @@
+import{y as r,L as l,d as c,i as p,W as u,n as d,Y as e}from"./L-midGXA.js";const i={base:"bg-muted"},h={__name:"ProseThead",props:{class:{type:null,required:!1}},setup(s){const a=s,t=r(),o=l(()=>e({extend:e(i),...t.uiPro?.prose?.thead||{}}));return(n,m)=>(p(),c("thead",{class:d(o.value({class:a.class}))},[u(n.$slots,"default")],2))}};export{h as default};
